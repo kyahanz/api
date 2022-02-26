@@ -1,0 +1,4 @@
+Flask==2.0.2
+numpy==1.22.1
+rubik_solver==0.2.0
+rubikscubetracker==1.0.0
